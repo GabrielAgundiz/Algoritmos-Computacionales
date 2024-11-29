@@ -1,0 +1,16 @@
+---------------
+Datos del paciente 
+Nombre: asdasd 
+Fecha de ingreso: 061613 
+Celular: 1523213 
+Sexo: M 
+Edad: 19 
+Peso(kilogramos): 36.0 
+Estatura(centimetros): 210 
+Talla(cintura en cm): 32 
+Presion Arterial: 105 
+Sangre: O+ 
+Alergias: ns 
+Padecimientos: ns 
+
+------------------------------
